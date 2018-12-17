@@ -3,14 +3,14 @@ spring:
         active:
         - dev
 ---
-spring
-    profiles:dev
+spring:
+    profiles: dev
     application:
         name: microservicecloud-config-kim-dev
 
 ---
-spring
-    profiles:test
+spring:
+    profiles: test
     application:
         name: microservicecloud-config-kim-test
     
