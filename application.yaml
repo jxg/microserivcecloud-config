@@ -1,0 +1,16 @@
+spring:
+    profiles:
+        active:
+        - dev
+---
+spring
+    profiles: dev
+    application:
+        name: microservicecloud-config-kim-dev
+
+---
+spring
+    profiles: test
+    application:
+        name: microservicecloud-config-kim-test
+    
