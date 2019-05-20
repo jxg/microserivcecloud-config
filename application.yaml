@@ -6,11 +6,11 @@ spring:
 spring:
     profiles: dev
     application:
-        name: microservicecloud-config-kim-dev
+        name: mscloud-config-dev
 
 ---
 spring:
     profiles: test
     application:
-        name: microservicecloud-config-kim-test
+        name: mscloud-config-test
     
