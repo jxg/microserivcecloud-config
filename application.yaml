@@ -8,7 +8,7 @@ spring:
     application:
         name: mscloud-config-dev
     datasource:
-        url: jdbc:mysql://localhost:3306/dev11             # 数据库名称
+        url: jdbc:mysql://localhost:3306/rrr             # 数据库名称
      
 server:
     port: 4001
