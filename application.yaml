@@ -23,5 +23,7 @@ spring:
         url: jdbc:mysql://localhost:3306/test             # 数据库名称
  
 server:
-    port: 4002        
+    port: 4002
+
+谢谢
     
